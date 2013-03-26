@@ -1,5 +1,9 @@
 ## Honeybadger 1.7.0 (Unreleased) ##
 
+* Added a custom grouping option
+
+  *Joshua Wood*
+
 ## Honeybadger 1.6.2 ##
 
 * Fail gracefully when Rack params cannot be parsed
